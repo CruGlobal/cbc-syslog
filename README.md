@@ -1,2 +1,2 @@
 # cbc-syslog
-Docker deployment of Carbon Black Cloud Syslog Connector
+Cru's docker deployment of Carbon Black Cloud Syslog Connector
