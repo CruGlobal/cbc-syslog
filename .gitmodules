@@ -1,4 +1,0 @@
-[submodule "cbc-syslog"]
-	path = cbc-syslog
-	url = git@github.com:carbonblack/cbc-syslog.git
-	branch = master
